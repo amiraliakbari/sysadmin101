@@ -2018,3 +2018,8 @@ input, select, textarea {
 	font-size: 0.8em;
 	line-height: 1.5em;
 }
+
+
+.image-block-white {
+	min-height: 120px;
+}
